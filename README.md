@@ -1,4 +1,6 @@
-# memory_region_manager
+# Memory Region Manager
 An implementation of region-based memory management in C.
 
-This was originally developed for the final assignment in the University of Manitoba class COMP 2160: Programming Practices.
+https://en.wikipedia.org/wiki/Region-based_memory_management
+
+This was originally developed for the final assignment of the University of Manitoba Computer Science class COMP 2160: Programming Practices.
